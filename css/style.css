@@ -493,7 +493,7 @@ table tr td {
     color: #1D344A;
 }
 .product-dec ul.no-checked li{
-        paddding-left: 0 !important;
+    padding-left: 0 !important;
 }
 ul.no-checked li::before{
  display: none;
